@@ -1,0 +1,15 @@
+{
+  "name": "claude-marketing-aeo",
+  "owner": {
+    "name": "Matteo Tittarelli"
+  },
+  "description": "Get cited by ChatGPT, Perplexity and Google AI: strategy, content, schema and programmatic pages.",
+  "plugins": [
+    {
+      "name": "marketing-aeo",
+      "source": ".",
+      "description": "Get cited by ChatGPT, Perplexity and Google AI: strategy, content, schema and programmatic pages.",
+      "version": "1.0.0"
+    }
+  ]
+}
